@@ -1,0 +1,14 @@
+node_modules/
+node_modules/**
+.idea
+.idea/**
+.DS_Store
+npm-debug.log
+Jenkinsfile
+coverage
+xunit.xml
+logs/**
+*.log
+*.pid
+sftp-config.json
+dist/**
