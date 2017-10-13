@@ -3138,6 +3138,6 @@ yallist@^2.1.2:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/yallist/-/yallist-2.1.2.tgz#1c11f9218f076089a47dd512f93c6699a6a81d52"
 
-zipcodes@^4.1.0:
+"zipcodes@https://github.com/brandfuss/zipcodes.git":
   version "4.1.0"
-  resolved "https://registry.yarnpkg.com/zipcodes/-/zipcodes-4.1.0.tgz#d0a6a6abbe8647bccbb6fb8e368fd2edaec4da30"
+  resolved "https://github.com/brandfuss/zipcodes.git#739bbfcf9d3eb42e2c9fff32d5627470dda47d2b"
