@@ -1,3 +1,3 @@
 # README #
 
-zip code radius search api for napohuston
+zip code radius search api using express 
